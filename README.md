@@ -10,6 +10,9 @@ Javiolin is an educational Java-based game designed to help high school violinis
 The main goal is to help players grasp a solid understanding of violin notes in higher positions and enhance their ability to sight-read music accurately and quickly.
 
 ### Gameplay
+
+<img width="1000" height="717" alt="Screenshot 2025-08-07 at 5 09 55 PM" src="https://github.com/user-attachments/assets/d530aa5f-61a0-4ac1-9577-59edfaeda743" />
+
 - The game features a realistic violin fingerboard divided into sections that glow to represent different notes.
 - Notes randomly generate and fall down the fingerboard.
 - Players must type the correct note name on their keyboard as the note reaches the glowing section.
