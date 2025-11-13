@@ -6,12 +6,18 @@ Javiolin is an educational Java-based game designed to help high school violinis
 
 ## Overview
 
+## NOTE TO ALL
+PLEASE VIEW THE OFFICIAL PRESENTATION OF MY GAME HERE, DOCUMENTED ON GOOGLE SLIDES: https://docs.google.com/presentation/d/1lpEH4X1SjVT9jocvhvT7YEYh1Rd3yQZ2enmGG5yxZOk/edit?slide=id.g35a41212986_0_52#slide=id.g35a41212986_0_52 
+
 ### Goal of the Game
 The main goal is to help players grasp a solid understanding of violin notes in higher positions and enhance their ability to sight-read music accurately and quickly.
 
 ### Gameplay
+<img width="1000" height="716" alt="Screenshot 2025-11-12 at 10 47 09 PM" src="https://github.com/user-attachments/assets/69d42671-acd0-45d6-acce-429e60617e36" />
 
 <img width="1000" height="717" alt="Screenshot 2025-08-07 at 5 09 55 PM" src="https://github.com/user-attachments/assets/d530aa5f-61a0-4ac1-9577-59edfaeda743" />
+
+
 
 - The game features a realistic violin fingerboard divided into sections that glow to represent different notes.
 - Notes randomly generate and fall down the fingerboard.
@@ -21,6 +27,7 @@ The main goal is to help players grasp a solid understanding of violin notes in 
 - The game is timed, either by a chosen song or a freeplay mode consisting of rounds customizable between 30 seconds and 2 minutes.
 
 ### Teaching & Feedback
+
 - After each round, fingerboard sections glow in colors from green to red, indicating how often each note was played correctly or missed.
 - A list of the most missed notes is displayed to help players focus their practice.
 - Scores are accompanied by a letter grade from A to F based on accuracy.
