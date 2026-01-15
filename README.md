@@ -7,7 +7,7 @@ Javiolin is an educational Java-based game designed to help high school violinis
 ## Overview
 
 ## NOTE TO ALL
-PLEASE VIEW THE OFFICIAL PRESENTATION OF MY GAME HERE, WITH A HELPFUL GAME PLAYTHROUGH AND DETAILED DESCRIPTIONS OF MECHANICS, DOCUMENTED ON GOOGLE SLIDES: https://docs.google.com/presentation/d/1lpEH4X1SjVT9jocvhvT7YEYh1Rd3yQZ2enmGG5yxZOk/edit?slide=id.g35a41212986_0_52#slide=id.g35a41212986_0_52 
+PLEASE VIEW THE OFFICIAL PRESENTATION OF MY GAME HERE, WITH A HELPFUL GAME PLAYTHROUGH AND DETAILED DESCRIPTIONS OF MECHANICS, DOCUMENTED ON GOOGLE SLIDES: https://docs.google.com/presentation/d/1-6SVRqcplOndKr6I7QFeM0bbVxIadBNsXMkwsSvpMcw/edit?slide=id.g35a41212986_0_85#slide=id.g35a41212986_0_85
 
 ### Goal of the Game
 The main goal is to help players grasp a solid understanding of violin notes in higher positions and enhance their ability to sight-read music accurately and quickly.
